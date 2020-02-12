@@ -1,0 +1,24 @@
+2020-02-12 19:59:55,932 INFO [main] o.s.j.u.log [Log.java:193] Logging initialized @911ms to org.seleniumhq.jetty9.util.log.Slf4jLog
+2020-02-12 19:59:56,041 INFO [main] o.s.j.s.Server [Server.java:371] jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_231-b11
+2020-02-12 19:59:56,076 INFO [main] o.s.j.s.session [DefaultSessionIdManager.java:365] DefaultSessionIdManager workerName=node0
+2020-02-12 19:59:56,077 INFO [main] o.s.j.s.session [DefaultSessionIdManager.java:370] No SessionScavenger set, using defaults
+2020-02-12 19:59:56,079 INFO [main] o.s.j.s.session [HouseKeeper.java:149] node0 Scavenging every 660000ms
+2020-02-12 19:59:56,089 INFO [main] o.s.j.s.h.ContextHandler [ContextHandler.java:850] Started o.s.j.s.ServletContextHandler@74fe5c40{/,null,AVAILABLE}
+2020-02-12 19:59:56,242 INFO [main] o.s.j.s.AbstractConnector [AbstractConnector.java:292] Started ServerConnector@49150774{HTTP/1.1,[http/1.1]}{127.0.0.1:4444}
+2020-02-12 19:59:56,243 INFO [main] o.s.j.s.Server [Server.java:408] Started @1224ms
+2020-02-12 19:59:56,489 INFO [main] o.s.j.s.Server [Server.java:371] jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_231-b11
+2020-02-12 19:59:56,490 INFO [main] o.s.j.s.h.ContextHandler [ContextHandler.java:850] Started o.s.j.s.ServletContextHandler@35841320{/,null,AVAILABLE}
+2020-02-12 19:59:56,495 INFO [main] o.s.j.s.AbstractConnector [AbstractConnector.java:292] Started ServerConnector@61c4eee0{HTTP/1.1,[http/1.1]}{0.0.0.0:5555}
+2020-02-12 19:59:56,495 INFO [main] o.s.j.s.Server [Server.java:408] Started @1477ms
+2020-02-12 20:00:41,146 INFO [main] o.s.j.u.log [Log.java:193] Logging initialized @902ms to org.seleniumhq.jetty9.util.log.Slf4jLog
+2020-02-12 20:00:41,249 INFO [main] o.s.j.s.Server [Server.java:371] jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_231-b11
+2020-02-12 20:00:41,283 INFO [main] o.s.j.s.session [DefaultSessionIdManager.java:365] DefaultSessionIdManager workerName=node0
+2020-02-12 20:00:41,283 INFO [main] o.s.j.s.session [DefaultSessionIdManager.java:370] No SessionScavenger set, using defaults
+2020-02-12 20:00:41,286 INFO [main] o.s.j.s.session [HouseKeeper.java:149] node0 Scavenging every 660000ms
+2020-02-12 20:00:41,295 INFO [main] o.s.j.s.h.ContextHandler [ContextHandler.java:850] Started o.s.j.s.ServletContextHandler@74fe5c40{/,null,AVAILABLE}
+2020-02-12 20:00:41,447 INFO [main] o.s.j.s.AbstractConnector [AbstractConnector.java:292] Started ServerConnector@731b8f63{HTTP/1.1,[http/1.1]}{127.0.0.1:4444}
+2020-02-12 20:00:41,448 INFO [main] o.s.j.s.Server [Server.java:408] Started @1206ms
+2020-02-12 20:00:41,695 INFO [main] o.s.j.s.Server [Server.java:371] jetty-9.4.12.v20180830; built: 2018-08-30T13:59:14.071Z; git: 27208684755d94a92186989f695db2d7b21ebc51; jvm 1.8.0_231-b11
+2020-02-12 20:00:41,696 INFO [main] o.s.j.s.h.ContextHandler [ContextHandler.java:850] Started o.s.j.s.ServletContextHandler@35841320{/,null,AVAILABLE}
+2020-02-12 20:00:41,701 INFO [main] o.s.j.s.AbstractConnector [AbstractConnector.java:292] Started ServerConnector@61c4eee0{HTTP/1.1,[http/1.1]}{0.0.0.0:5555}
+2020-02-12 20:00:41,702 INFO [main] o.s.j.s.Server [Server.java:408] Started @1460ms
